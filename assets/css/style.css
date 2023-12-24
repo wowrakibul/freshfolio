@@ -1,0 +1,14 @@
+.radius-max {
+    border-radius: 10000px;
+}
+
+.name{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.verified-badge {
+    width: 20px;
+    border-radius: 100px;
+}
